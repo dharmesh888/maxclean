@@ -1,0 +1,2 @@
+# maxclean
+static project
